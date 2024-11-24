@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\proyectos .net\\Restaurante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|d:\\proyectos .net\\restaurante\\restaurante\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|d:\\proyectos .net\\restaurante\\restaurante\\data\\services\\detallefacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\data\\services\\detallefacturaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|d:\\proyectos .net\\restaurante\\restaurante\\controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\controllers\\detallefacturacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|d:\\proyectos .net\\restaurante\\restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|d:\\proyectos .net\\restaurante\\restaurante\\models\\tables\\restaurantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\models\\tables\\restaurantecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|d:\\proyectos .net\\restaurante\\restaurante\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|d:\\proyectos .net\\restaurante\\restaurante\\models\\dto\\detallefacturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\models\\dto\\detallefacturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|d:\\proyectos .net\\restaurante\\restaurante\\data\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\data\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|d:\\proyectos .net\\restaurante\\restaurante\\data\\ropository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\data\\ropository\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|d:\\proyectos .net\\restaurante\\restaurante\\data\\services\\meseroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\data\\services\\meseroservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|d:\\proyectos .net\\restaurante\\restaurante\\controllers\\meserocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\controllers\\meserocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|d:\\proyectos .net\\restaurante\\restaurante\\data\\ropository\\meserorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5632F53-7DCD-4817-A4B9-255B68F824A6}|Restaurante\\Restaurante.csproj|solutionrelative:restaurante\\data\\ropository\\meserorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\proyectos .net\\Restaurante\\Restaurante\\Program.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Program.cs",
+              "ToolTip": "D:\\proyectos .net\\Restaurante\\Restaurante\\Program.cs",
+              "RelativeToolTip": "Restaurante\\Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:06:58.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RestauranteContext.cs",
+              "DocumentMoniker": "D:\\proyectos .net\\Restaurante\\Restaurante\\Models\\Tables\\RestauranteContext.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Models\\Tables\\RestauranteContext.cs",
+              "ToolTip": "D:\\proyectos .net\\Restaurante\\Restaurante\\Models\\Tables\\RestauranteContext.cs",
+              "RelativeToolTip": "Restaurante\\Models\\Tables\\RestauranteContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwB8AAAAVAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T02:08:45.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\proyectos .net\\Restaurante\\Restaurante\\appsettings.json",
+              "RelativeDocumentMoniker": "Restaurante\\appsettings.json",
+              "ToolTip": "D:\\proyectos .net\\Restaurante\\Restaurante\\appsettings.json",
+              "RelativeToolTip": "Restaurante\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-24T02:05:37.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetalleFacturaController.cs",
+              "DocumentMoniker": "D:\\proyectos .net\\Restaurante\\Restaurante\\Controllers\\DetalleFacturaController.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Controllers\\DetalleFacturaController.cs",
+              "ToolTip": "D:\\proyectos .net\\Restaurante\\Restaurante\\Controllers\\DetalleFacturaController.cs",
+              "RelativeToolTip": "Restaurante\\Controllers\\DetalleFacturaController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAIwC4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:15:04.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DetalleFacturaService.cs",
+              "DocumentMoniker": "D:\\proyectos .net\\Restaurante\\Restaurante\\Data\\Services\\DetalleFacturaService.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Data\\Services\\DetalleFacturaService.cs",
+              "ToolTip": "D:\\proyectos .net\\Restaurante\\Restaurante\\Data\\Services\\DetalleFacturaService.cs",
+              "RelativeToolTip": "Restaurante\\Data\\Services\\DetalleFacturaService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAkwE8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:13:01.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DetalleFacturaDTO.cs",
+              "DocumentMoniker": "D:\\proyectos .net\\Restaurante\\Restaurante\\Models\\DTO\\DetalleFacturaDTO.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Models\\DTO\\DetalleFacturaDTO.cs",
+              "ToolTip": "D:\\proyectos .net\\Restaurante\\Restaurante\\Models\\DTO\\DetalleFacturaDTO.cs",
+              "RelativeToolTip": "Restaurante\\Models\\DTO\\DetalleFacturaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T00:12:52.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClienteRepository.cs",
+              "DocumentMoniker": "D:\\proyectos .net\\Restaurante\\Restaurante\\Data\\Ropository\\ClienteRepository.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Data\\Ropository\\ClienteRepository.cs",
+              "ToolTip": "D:\\proyectos .net\\Restaurante\\Restaurante\\Data\\Ropository\\ClienteRepository.cs",
+              "RelativeToolTip": "Restaurante\\Data\\Ropository\\ClienteRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAewB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:19:24.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "D:\\proyectos .net\\Restaurante\\Restaurante\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Controllers\\ClienteController.cs",
+              "ToolTip": "D:\\proyectos .net\\Restaurante\\Restaurante\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "Restaurante\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:09:14.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "D:\\proyectos .net\\Restaurante\\Restaurante\\Data\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Data\\Services\\ClienteService.cs",
+              "ToolTip": "D:\\proyectos .net\\Restaurante\\Restaurante\\Data\\Services\\ClienteService.cs",
+              "RelativeToolTip": "Restaurante\\Data\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAIAwwGUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:07:49.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MeseroRepository.cs",
+              "DocumentMoniker": "D:\\proyectos .net\\Restaurante\\Restaurante\\Data\\Ropository\\MeseroRepository.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Data\\Ropository\\MeseroRepository.cs",
+              "ToolTip": "D:\\proyectos .net\\Restaurante\\Restaurante\\Data\\Ropository\\MeseroRepository.cs",
+              "RelativeToolTip": "Restaurante\\Data\\Ropository\\MeseroRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwCUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:59:58.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MeseroController.cs",
+              "DocumentMoniker": "D:\\proyectos .net\\Restaurante\\Restaurante\\Controllers\\MeseroController.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Controllers\\MeseroController.cs",
+              "ToolTip": "D:\\proyectos .net\\Restaurante\\Restaurante\\Controllers\\MeseroController.cs",
+              "RelativeToolTip": "Restaurante\\Controllers\\MeseroController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:57:26.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MeseroService.cs",
+              "DocumentMoniker": "D:\\proyectos .net\\Restaurante\\Restaurante\\Data\\Services\\MeseroService.cs",
+              "RelativeDocumentMoniker": "Restaurante\\Data\\Services\\MeseroService.cs",
+              "ToolTip": "D:\\proyectos .net\\Restaurante\\Restaurante\\Data\\Services\\MeseroService.cs",
+              "RelativeToolTip": "Restaurante\\Data\\Services\\MeseroService.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAvwIAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T21:49:44.347Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

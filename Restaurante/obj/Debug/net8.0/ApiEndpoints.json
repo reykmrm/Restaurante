@@ -1,0 +1,555 @@
+[
+  {
+    "ContainingType": "Restaurante.Controllers.ClienteController",
+    "Method": "AddCliente",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "clienteDTO",
+        "Type": "Restaurante.Models.DTO.ClienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.ClienteController",
+    "Method": "GetAllClientes",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.ClienteController",
+    "Method": "GetClienteById",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.ClienteController",
+    "Method": "UpdateCliente",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "clienteDTO",
+        "Type": "Restaurante.Models.DTO.ClienteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.ClienteController",
+    "Method": "RemoveCliente",
+    "RelativePath": "api/Cliente/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.ClienteController",
+    "Method": "GetClientesConTotalConsumo",
+    "RelativePath": "api/Cliente/cliente-consumo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.DetalleFacturaController",
+    "Method": "AddDetalleFactura",
+    "RelativePath": "api/DetalleFactura",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "detalleFacturaDTO",
+        "Type": "Restaurante.Models.DTO.DetalleFacturaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.DetalleFacturaController",
+    "Method": "GetDetalleFacturaById",
+    "RelativePath": "api/DetalleFactura/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.DetalleFacturaController",
+    "Method": "UpdateDetalleFactura",
+    "RelativePath": "api/DetalleFactura/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "detalleFacturaDTO",
+        "Type": "Restaurante.Models.DTO.DetalleFacturaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.DetalleFacturaController",
+    "Method": "RemoveDetalleFactura",
+    "RelativePath": "api/DetalleFactura/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.DetalleFacturaController",
+    "Method": "GetAllDetalleFacturas",
+    "RelativePath": "api/DetalleFactura/get-facturas/{nFactura}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nFactura",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.DetalleFacturaController",
+    "Method": "GetProductoMasVendido",
+    "RelativePath": "api/DetalleFactura/producto-mas-vendido",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDate",
+        "Type": "Restaurante.Models.DTO.RequestDate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.FacturaController",
+    "Method": "AddFactura",
+    "RelativePath": "api/Factura",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "facturaDTO",
+        "Type": "Restaurante.Models.DTO.FacturaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.FacturaController",
+    "Method": "GetAllFacturas",
+    "RelativePath": "api/Factura",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.FacturaController",
+    "Method": "GetFacturaById",
+    "RelativePath": "api/Factura/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.FacturaController",
+    "Method": "UpdateFactura",
+    "RelativePath": "api/Factura/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "facturaDTO",
+        "Type": "Restaurante.Models.DTO.FacturaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.FacturaController",
+    "Method": "RemoveFactura",
+    "RelativePath": "api/Factura/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.MesaController",
+    "Method": "AddMesa",
+    "RelativePath": "api/Mesa",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "mesaDTO",
+        "Type": "Restaurante.Models.DTO.MesaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.MesaController",
+    "Method": "GetAllMesas",
+    "RelativePath": "api/Mesa",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.MesaController",
+    "Method": "GetMesaById",
+    "RelativePath": "api/Mesa/{nroMesa}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nroMesa",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.MesaController",
+    "Method": "UpdateMesa",
+    "RelativePath": "api/Mesa/{nroMesa}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nroMesa",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "mesaDTO",
+        "Type": "Restaurante.Models.DTO.MesaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.MesaController",
+    "Method": "RemoveMesa",
+    "RelativePath": "api/Mesa/{nroMesa}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nroMesa",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.MeseroController",
+    "Method": "AddMesero",
+    "RelativePath": "api/Mesero",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "meseroDTO",
+        "Type": "Restaurante.Models.DTO.MeseroDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.MeseroController",
+    "Method": "GetAllMeseros",
+    "RelativePath": "api/Mesero",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.MeseroController",
+    "Method": "GetMeseroById",
+    "RelativePath": "api/Mesero/{idMesero}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idMesero",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.MeseroController",
+    "Method": "UpdateMesero",
+    "RelativePath": "api/Mesero/{idMesero}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idMesero",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "meseroDTO",
+        "Type": "Restaurante.Models.DTO.MeseroDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.MeseroController",
+    "Method": "RemoveMesero",
+    "RelativePath": "api/Mesero/{idMesero}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idMesero",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.MeseroController",
+    "Method": "GetTotalVentasPorMesero",
+    "RelativePath": "api/Mesero/ventas-mesero",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.SupervisorController",
+    "Method": "AddSupervisor",
+    "RelativePath": "api/Supervisor",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "supervisorDTO",
+        "Type": "Restaurante.Models.DTO.SupervisorDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.SupervisorController",
+    "Method": "GetAllSupervisors",
+    "RelativePath": "api/Supervisor",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.SupervisorController",
+    "Method": "GetSupervisorById",
+    "RelativePath": "api/Supervisor/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.SupervisorController",
+    "Method": "UpdateSupervisor",
+    "RelativePath": "api/Supervisor/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "supervisorDTO",
+        "Type": "Restaurante.Models.DTO.SupervisorDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.SupervisorController",
+    "Method": "RemoveSupervisor",
+    "RelativePath": "api/Supervisor/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.VentasController",
+    "Method": "Get",
+    "RelativePath": "api/Ventas/get-ventas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "RequestDate",
+        "Type": "Restaurante.Models.DTO.RequestDate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Restaurante.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[Restaurante.WeatherForecast, Restaurante, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]
